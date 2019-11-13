@@ -46,58 +46,54 @@ En #ODSL estamos armando un inventario de datos públicos abiertos para que toda
 📌 Provincia / Ciudades
 -----------------------
 
-Provincia de Buenos Aires: https://catalogo.datos.gba.gob.ar/‌ ‌
-Ciudad de Buenos Aires: https://data.buenosaires.gob.ar/‌ ‌
-Ciudad‌ ‌de Rosario‌: https://datos.rosario.gob.ar/‌ ‌
-Ciudad‌ ‌de‌ ‌Córdoba‌: https://gobiernoabierto.cordoba.gob.ar/data/datos-abiertos‌ ‌
-Provincia de Mendoza: http://datosabiertos.mendoza.gov.ar/‌ ‌
-📌Gobierno‌ ‌de‌ ‌Misiones, ‌ ‌Argentina‌ ‌
-http://www.datos.misiones.gov.ar/‌ ‌ ‌
-‌📌Gobierno‌ ‌de‌ ‌Jujuy, ‌ ‌Argentina‌ ‌
-http://datos.gajujuy.gob.ar/‌ ‌
-‌📌Gobierno‌ ‌Santa‌ ‌Fe, ‌ ‌Argentina‌ ‌
-https://www.santafe.gob.ar/datosabiertos/‌ ‌ ‌
-‌📌Gobierno‌ ‌de‌ ‌Entre‌ ‌Ríos, ‌ ‌Argentina‌ ‌
-https://www.entrerios.gov.ar/gobiernoabierto
-📌Gobierno‌ ‌de‌ ‌Formosa, ‌ ‌Argentina‌ ‌
-https://www.formosa.gob.ar/datosabiertos‌ ‌ ‌
-‌📌Gobierno‌ ‌de‌ ‌Tucumán, ‌ ‌Argentina‌ ‌
-http://datos.tucuman.gov.ar/‌ ‌ ‌
-‌📌Gobierno‌ ‌de‌ ‌La‌ ‌Rioja, ‌ ‌Argentina‌ ‌
-https://web.larioja.org/dato-abierto‌ ‌
-‌📌Gobierno‌ ‌de‌ ‌la‌ ‌ciudad‌ ‌de‌ ‌Catamarca‌ ‌
-https://www.catamarcaciudad.gob.ar/datos-abiertos/‌ ‌ ‌
-‌📌Gobierno‌ ‌de‌ ‌San‌ ‌Juan‌ ‌
-https://www.datosabiertos.sanjuan.gob.ar/‌ ‌
-‌📌Gobierno‌ ‌de‌ ‌Neuquén, ‌ ‌Argentina‌ ‌
-https://portaldatos.neuquen.gov.ar/‌ ‌ ‌
-‌📌Gobierno‌ ‌de‌ ‌San‌ ‌Luis, ‌ ‌Argentina‌ ‌
-https://www.ciudaddesanluis.gov.ar
-‌📌Gobierno‌ ‌de‌ ‌Chubut, ‌ ‌Argentina‌ ‌
-http://datos.chubut.gov.ar/‌ ‌ ‌
-‌📌Gobierno‌ ‌Municipal‌ ‌de‌ ‌Río‌ ‌Negro, ‌ ‌Argentina‌ ‌
-https://www.rionegro.gov.co/Transparencia/Paginas/Datos-Abiertos‌
-.aspx‌ ‌
-📌Poder‌ ‌Judicial‌ ‌de‌ ‌Río‌ ‌Negro, ‌ ‌Argentina‌ ‌
-http://servicios.jusrionegro.gov.ar/inicio/web/gobierno-abierto/esta‌
-disticas/index.php‌ ‌ ‌
-‌📌Gobierno‌ ‌Tierra‌ ‌del‌ ‌Fuego, ‌ ‌Argentina‌ ‌
-https://gestiontransparente.tierradelfuego.gob.ar/tdf-data-2/‌ ‌
+* `Provincia de Buenos Aires: <https://catalogo.datos.gba.gob.ar/‌>`_
+* `Ciudad de Buenos Aires: <https://data.buenosaires.gob.ar/>`_ ‌
+* `Ciudad‌ ‌de Rosario‌: <https://datos.rosario.gob.ar/‌>`_ ‌
+* `Ciudad‌ ‌de‌ ‌Córdoba‌: <https://gobiernoabierto.cordoba.gob.ar/data/datos-abiertos‌>`_
+* `Gobierno de Mendoza: <http://datosabiertos.mendoza.gov.ar/‌>`_
+* `Gobierno‌ ‌de‌ ‌Misiones: <http://www.datos.misiones.gov.ar/>‌`_ ‌ 
+* `‌Gobierno‌ ‌de‌ ‌Jujuy: <http://datos.gajujuy.gob.ar/‌>`_ 
+* `‌Gobierno‌ ‌de‌ Santa Fe: <https://www.santafe.gob.ar/datosabiertos/‌>`_ 
+* `‌Gobierno‌ ‌de‌ Entre Rios: <https://www.entrerios.gov.ar/gobiernoabierto/‌>`_
+* `Gobierno‌ ‌de‌ ‌Formosa:‌ <https://www.formosa.gob.ar/datosabiertos>`_
+* `Gobierno‌ ‌de‌ Tucumán:‌ <http://datos.tucuman.gov.ar/>`_
+* `Gobierno‌ ‌de‌ La Rioja:‌ <https://web.larioja.org/dato-abierto>`_
+* `Gobierno‌ ‌de‌ Catamarca:‌ <https://www.catamarcaciudad.gob.ar/datos-abiertos/>`_
+* `Gobierno‌ ‌de‌ San Juan:‌ <https://www.datosabiertos.sanjuan.gob.ar/>`_
+* `Gobierno‌ ‌de‌ Neuquén:‌ <https://portaldatos.neuquen.gov.ar/>`_
+* `Gobierno‌ ‌de‌ San Luis:‌ <https://www.ciudaddesanluis.gov.ar/>`_
+* `Gobierno‌ ‌de‌ Chubut:‌ <http://datos.chubut.gov.ar/>`_
+* `Gobierno‌ ‌de‌ Rio Negro:‌ <https://www.rionegro.gov.co/Transparencia/Paginas/Datos-Abiertos‌.aspx‌/>`_
+* `Poder‌ ‌Judicial‌ ‌de‌ ‌Río‌ ‌Negro:‌ <http://servicios.jusrionegro.gov.ar/inicio/web/gobierno-abierto/esta‌disticas/index.php‌/>`_
+* `Gobierno‌ de ‌Tierra‌ ‌del‌ ‌Fuego:‌ <https://gestiontransparente.tierradelfuego.gob.ar/tdf-data-2/>`_
 
 
-Clima
+📌 Entidades y Empresas
+-----------------------
+
+* `Banco‌ ‌Mundial‌: <‌https://datos.bancomundial.org/>‌`_‌
+* `ARSAT‌ ‌Empresa Argentina de Soluciones Satelitales Sociedad Anónima: <https://datos.arsat.com.ar/home>‌`_
+* `Datos sobre educación‌ ‌(Luminis)‌: <https://www.fundacionluminis.org.ar/datos-abiertos-educacion‌>`_
+* `Navent: <https://open.navent.com/>‌`_ ‌
+* `Mercado‌ ‌Libre‌: <https://developers.mercadolibre.com.ar/es_ar/api-docs-es>‌`_
+* `Properatti‌: <https://www.properati.com.ar/data/>‌`_ 
+* `Techo‌: <http://datos.techo.org/fa_IR/‌>`_
+
+
+📌 Clima
 -----
 
 * `Climas <http://climayagua.inta.gob.ar/pronosticos>`_
 
 
-Mapas
+📌 Mapas
 -----
 
 * `Mapas de Buenos Aires <http://mapa.buenosaires.gov.ar>`_
 * `Ministerio de Defensa <http://www.ign.gob.ar/NuestrasActividades/Geografia/DatosArgentina>`_
 
-Otras
+
+📌 Otras
 -----
 
 * `Seguros <https://www.cesvi.com.ar/>`_
