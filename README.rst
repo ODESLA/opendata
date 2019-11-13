@@ -13,7 +13,7 @@ En #ODSL estamos armando un inventario de datos públicos abiertos para que toda
 📌 Internacional
 ----------------
 
-* `‌Chile‌ <http://datos.gob.cl/>‌‌`_
+* `Chile <http://datos.gob.cl/>`_
 * `Uruguay‌ <http://datos.gub.uy/>`_
 * `Brasil‌ <http://dados.gov.br/‌>`_
 * `‌Paraguay‌ <https://www.datos.gov.py/>`_
@@ -38,7 +38,7 @@ En #ODSL estamos armando un inventario de datos públicos abiertos para que toda
 * `Ministerio de Modernización Presidencia de la Nación <http://datos.gob.ar>`_
 * `Ministerio de Transporte <https://servicios.transporte.gob.ar/gobierno_abierto/>`_
 * `Min. Relaciones Exteriores y Culto <https://www.cancilleria.gob.ar/es/iniciativas/datos-abiertos‌>`_
-* `‌Justicia: <http://datos.jus.gob.ar/‌‌>`_
+* `‌Justicia Argentina <http://datos.jus.gob.ar/‌‌>`_
 * `Admin. Nac. de la Seguridad Social <https://www.anses.gob.ar/institucional/datos-abiertos‌>`_
 * `Ente de Nacional de Telecomunicaciones <https://datosabiertos.enacom.gob.ar/home‌‌>`_
 * `Corte Suprema de la Nación <https://datos.csjn.gov.ar/organization/csjn‌>`_
@@ -51,7 +51,7 @@ En #ODSL estamos armando un inventario de datos públicos abiertos para que toda
 * `Ciudad‌ ‌de Rosario‌ <https://datos.rosario.gob.ar/‌>`_ ‌
 * `Ciudad‌ ‌de‌ ‌Córdoba‌ <https://gobiernoabierto.cordoba.gob.ar/data/datos-abiertos‌>`_
 * `Gobierno de Mendoza <http://datosabiertos.mendoza.gov.ar/‌>`_
-* `Gobierno‌ ‌de‌ ‌Misiones <http://www.datos.misiones.gov.ar/>‌`_
+* `Gobierno de Misiones <http://www.datos.misiones.gov.ar/‌>`_
 * `‌Gobierno‌ ‌de‌ ‌Jujuy <http://datos.gajujuy.gob.ar/‌>`_ 
 * `‌Gobierno‌ ‌de‌ Santa Fe <https://www.santafe.gob.ar/datosabiertos/‌>`_ 
 * `‌Gobierno‌ ‌de‌ Entre Rios <https://www.entrerios.gov.ar/gobiernoabierto/‌>`_
@@ -71,14 +71,13 @@ En #ODSL estamos armando un inventario de datos públicos abiertos para que toda
 📌 Entidades y Empresas
 -----------------------
 
-* `Banco‌ ‌Mundial‌ <‌https://datos.bancomundial.org/>‌`_‌
-* `ARSAT‌ ‌Empresa Argentina de Soluciones Satelitales Sociedad Anónima <https://datos.arsat.com.ar/home>‌`_
-* `Datos sobre educación‌ ‌(Luminis)‌ <https://www.fundacionluminis.org.ar/datos-abiertos-educacion‌>`_
-* `Navent <https://open.navent.com/>‌`_ ‌
-* `Mercado‌ ‌Libre‌ <https://developers.mercadolibre.com.ar/es_ar/api-docs-es>‌`_
-* `Properatti‌ <https://www.properati.com.ar/data/>‌`_ 
 * `Techo‌ <http://datos.techo.org/fa_IR/‌>`_
-
+* `Banco Mundial <https://datos.bancomundial.org/>`_
+* `ARSAT‌ ‌Empresa Argentina de Soluciones Satelitales Sociedad Anónima <https://datos.arsat.com.ar/home>`_
+* `Datos sobre educación‌ ‌(Luminis) <https://www.fundacionluminis.org.ar/datos-abiertos-educacion>`_
+* `Navent <https://open.navent.com/>`_
+* `Mercado‌ ‌Libre‌ <https://developers.mercadolibre.com.ar/es_ar/api-docs-es>`_
+* `Properatti‌ <https://www.properati.com.ar/data/>`_
 
 📌 Clima
 -----
