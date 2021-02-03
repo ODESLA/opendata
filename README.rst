@@ -28,6 +28,7 @@ En #ODSL estamos armando un inventario de datos públicos abiertos para que toda
 * `‌República‌ ‌Dominicana‌ <http://datos.gob.do/>`_
 * `Puerto‌ ‌Rico‌ <https://data.pr.gov/‌>`_
 * `‌México‌ <https://datos.gob.mx‌>`_
+* `‌Chicago‌ (EEUU) <https://data.cityofchicago.org>`_
 
 📌 Nacional
 --------
